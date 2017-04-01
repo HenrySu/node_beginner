@@ -1,0 +1,12 @@
+{
+	"libs":[
+		"browser", "ecma5"
+	],
+	"plugins":{
+		"node":{},
+		"requirejs": {
+		        "baseURL": "./",
+			"paths": {}
+		}
+	}
+}
