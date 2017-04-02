@@ -1,0 +1,25 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenrySu/node_beginner.git"
+  },
+  "keywords": [
+    "node_beginner"
+  ],
+  "author": "HenrySU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HenrySu/node_beginner/issues"
+  },
+  "homepage": "https://github.com/HenrySu/node_beginner#readme",
+  "dependencies": {
+    "formidable": "^1.1.1"
+  }
+}
